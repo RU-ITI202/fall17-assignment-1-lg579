@@ -1,11 +1,9 @@
-/**
- * 
- */
+ /*Name: Lovika Gosain
+ Due Date: 10/7/2017
+ ITI Object Oriented Programming
+ Individual Assignment 1
+ Description: Create a book class with the methods getTitle, isBorrowed, rented, and returned*/
 
-/**
- * @author 
- *
- */
 public class BookTester {
 
 	/**
